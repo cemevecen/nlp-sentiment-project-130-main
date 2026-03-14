@@ -120,4 +120,4 @@ if st.button("Duygu Durumunu Analiz Et", use_container_width=True):
 
 # Footer
 st.divider()
-st.caption("Geliştiren: ivicin | Streamlit Cloud Deployment Ready")
+st.caption("Geliştiren: ivicin - helolooooy loooy loy")
